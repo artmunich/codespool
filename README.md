@@ -1,5 +1,6 @@
 # codespool
-For funny or beautiful programs that will make life easier or more convenient.
+
+**For funny or beautiful programs that will make life easier or more convenient.**
 
 * [Sigmoid function](https://github.com/artmunich/codespool/blob/master/logitReg.m)
 
