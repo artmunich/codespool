@@ -14,6 +14,6 @@ More information can be found [here](https://en.wikipedia.org/wiki/Logistic_func
 * [Mandrill](https://github.com/artmunich/codespool/blob/master/madrill.m)
 ![mandrill](https://github.com/artmunich/codespool/blob/master/mandrill.png)
 
-*[Auto-downloading files using Python](https://github.com/artmunich/codespool/blob/master/getpdfs.py)
+* [Auto-downloading files using Python](https://github.com/artmunich/codespool/blob/master/getpdfs.py)
 
 Reference can be found [here](http://blog.csdn.net/xiaoguaihai/article/details/36016387).
